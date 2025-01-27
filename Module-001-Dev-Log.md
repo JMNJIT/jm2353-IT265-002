@@ -1,27 +1,28 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: John Mohring
+### Module: 001
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [01/28/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+- [ ] Complete Git Repo Setup
+- [ ] Complete First Dev Log
+- [ ] Complete Indie Studio Exercise 
 
 #### Progress
 - **What I accomplished**:
-  - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Successfully configured GitHub Repository
+  - Learned how to use GitHub UI and organize branches / files
+  <!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
-  - Describe blockers, bugs, or issues encountered.
+  - Initially unable to link SSH Keys together
+  - Struggled to setup GitHub Pages properly
   -  <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
-  - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Troubleshooted the SSH generation when unable to use the "eval" command with a bit of Googling and testing
+  - Read through some GitHub Documentation to better understand
+  - <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
