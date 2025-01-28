@@ -2,11 +2,11 @@
 
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Watcher Worlds
+  - Fizzure Studios
+  - CZMK Games
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
+  - Cognizant Studios
   - [Insert alternative name idea 2]
   - [Insert alternative name idea 3]
 
@@ -20,26 +20,25 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
-
+> To make games that make people pay attention, by creating that which they didn't think of, or by saying that which they won't admit.
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Creating compelling stories
+- Innovating on mechanics to allow new styles of play
+- Rewarding player effort and not restricting the experience
+- Flexibility and listening to player feedback
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** Indie game fans, casual/couch players, dedicated players and completionists
+- **Interests:** Interesting stories, puzzles, and playstyles you can't get in other games
+- **Platforms:** PC (main), with open mind to port based on game simplicity
 
 ---
 
@@ -47,36 +46,36 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Puzzle games, narrative-driven stories, slow paced
+- Fantasy, Sci-fi, Tech / Cyberpunk  
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> I hope to create innovative gameplay loops in an immersive world, where a player feels special and like there isn't another game like it. 
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity, (eventually Unreal too)
+- **Art Tools:** Clip Studio Paint, Asprite, GIMP / Photoshop, Maya
+- **Audio Tools:** DaVinci Resolve, Bandlab
+- **Version Control:** Github
+- **Publishing Platforms:** Itch.io, Steam, Epic(?)
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Minimalist
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
+  - *Made You Look*
+  - 
   - [Tagline 3: e.g., "Architects of Fun."]
 
 -- **Sketches/Logo**:
