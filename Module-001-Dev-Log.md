@@ -14,23 +14,29 @@
 - **What I accomplished**:
   - Successfully configured GitHub Repository
   - Learned how to use GitHub UI and organize branches / files
-  <!--Your entry here or N/A if not applicable for this entry-->
+  - Completed Studio Brainstorm to satisfactory condition
+<!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Initially unable to link SSH Keys together
   - Struggled to setup GitHub Pages properly
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Coming up with names is hard
+<!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
   - Troubleshooted the SSH generation when unable to use the "eval" command with a bit of Googling and testing
   - Read through some GitHub Documentation to better understand
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Asked for help creating the GitHub pages correctly
+  <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+  - Asking for help was useful, as it helped clarify an intrinsic error better than online resources
+<!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+  - Researching a lot about availability of namespaces and trademarks will be important if I want to creat my own studio, as being fully original is difficult
+  - I'm not sure how much detail should go into these, so I want to look at other examples to get a better idea of how I should format a log
+<!--Your entry here or N/A if not applicable for this entry-->
 <!--
 
 - Example prompts:
@@ -42,4 +48,5 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+  - I will try to better organize my GitHub and familiarize myself with more of its features now that I have gotten the basics
+<!--Your entry here or N/A if not applicable for this entry-->
