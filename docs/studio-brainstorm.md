@@ -80,7 +80,8 @@
   - See it. Live it. 
 
 -- **Sketches/Logo**:
-
+- ![WWLogoEx](https://github.com/user-attachments/assets/7b965ff9-dab0-48ad-927c-12eba53132e0)
+> Example idea using chromatic abherration and two W's to create an eye
 ---
 
 ## Additional Notes
