@@ -4,23 +4,23 @@
 - **Primary Ideas:**
   - Watcher Worlds
   - Fizzure Studios
-  - CZMK Games
-- **Alternative Ideas:**
   - Cognizant Studios
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+- **Alternative Ideas:**
+  - Iridescent Interactive
+  - CZMK Games
+  - Astral Arcade
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: Watcher Worlds
+- **About the name**: Stems from my inherent like for awareness and thoughtfulness, shows emphasis on the design of the world or universe the games would take place in, and references a character I created a long time ago
+- **Social Medias with name available**: WatcherWorlds / WatcherWorldsGames is available on most platforms
+- **Possible domain names available**: WatcherWorlds.net / Watcher-Worlds.com
 
 ---
 
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> To make games that make people pay attention, by creating that which they didn't think of, or by saying that which they won't admit.
+- To make games that make people pay attention, by creating that which they didn't think of, or by saying that which they won't admit.
 ---
 
 ## Core Values
@@ -76,8 +76,8 @@
 - **Logo Style:** Minimalist
 - **Tagline Ideas:** 
   - *Made You Look*
-  - 
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - Vision Realized
+  - See it. Live it. 
 
 -- **Sketches/Logo**:
 
@@ -86,4 +86,4 @@
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+- I like simple but catchy / cool names, but will probably hate my ideas by the time it would come around to use them, we'll see how they hold up
