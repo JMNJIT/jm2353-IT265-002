@@ -47,6 +47,7 @@
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
 - Puzzle games, narrative-driven stories, slow paced
+- Depth to the game, stones to be unturned and rewards for exploration
 - Fantasy, Sci-fi, Tech / Cyberpunk  
 
 ---
