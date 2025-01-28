@@ -37,14 +37,7 @@
   - Researching a lot about availability of namespaces and trademarks will be important if I want to creat my own studio, as being fully original is difficult
   - I'm not sure how much detail should go into these, so I want to look at other examples to get a better idea of how I should format a log
 <!--Your entry here or N/A if not applicable for this entry-->
-<!--
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
