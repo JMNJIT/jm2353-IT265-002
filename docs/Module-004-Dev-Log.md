@@ -36,4 +36,5 @@
   - where before moves were abstract, I can now give them reasons for working, which sometimes improve the brainstorming process, or give me ideas for new abilities or cards
 
 #### Next Steps
-- 
+- I have to keep innovating and trying new ideas until I feel like the game has flow.
+- I want to be very careful to avoid a superpowered strategy
