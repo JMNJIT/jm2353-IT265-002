@@ -3,10 +3,8 @@
 ---
 
 ## Title
-<!-- 
-Enter the name of your game concept. 
-Make it concise yet engaging, reflecting the game's essence. 
--->
+
+### Fire Fight
 
 ---
 
@@ -15,6 +13,7 @@ Make it concise yet engaging, reflecting the game's essence.
 Provide a one-sentence summary that captures the core idea of your game. 
 This should convey what makes your game unique in a compelling way. 
 -->
+A high-action Pyrokinetic card game where players fight fire with fire. Collect embers, and start duels with your opponents, and burn brightest.  
 
 ---
 
@@ -25,6 +24,7 @@ This should convey what makes your game unique in a compelling way.
 Specify the game's genre (e.g., action, adventure, strategy, puzzle). 
 Mention any sub-genres if applicable. 
 -->
+Action, strategy, PVP.
 
 ### Style
 <!-- 
@@ -32,6 +32,7 @@ Describe the tone, visual approach, and gameplay feel.
 Examples: "A dark, gothic horror with hand-drawn 2D animation" or 
 "A lighthearted, comedic party game with vibrant colors and exaggerated physics." 
 -->
+Bright, exciting, fast-paced. 
 
 ---
 
@@ -42,12 +43,14 @@ Examples: "A dark, gothic horror with hand-drawn 2D animation" or
 Identify the target age group, interests, and gamer profile. 
 Mention if your game appeals to casual or hardcore players. 
 -->
+Fantasy fans, Casual or serious card game enjoyers. 
 
 ### Accessibility
 <!-- 
 Describe how the game will accommodate different skill levels. 
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
+
 
 ### Inclusivity Strategies
 <!-- 
