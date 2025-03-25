@@ -292,6 +292,13 @@ Technological constraints will be resolved with time and effort. As with much of
 Upload sketches here, or describe the key visual elements in detail if unavailable. 
 -->
 
+![image](https://github.com/user-attachments/assets/282169fe-608e-4afc-be49-015a59ac741a)
+
+![Fire_Fight sample cards](https://github.com/user-attachments/assets/57f2cb52-ea8d-465a-9ee3-cc8dcbc489ab)
+
+![image](https://github.com/user-attachments/assets/3d6ce833-ae2c-4678-a945-a60b21c973c1)
+
+
 ---
 
 ## Pitch Preparation
@@ -314,12 +321,14 @@ No other game uses pyrokinesis as a theme and few allow players to independently
 Explain how the game connects with its intended audience. 
 What elements make it particularly appealing to them? 
 -->
+It is stylistically dynamic and unique, taking reference from some palettes and designs from popular media.
 
 ### Market Differentiation
 <!-- 
 Describe what makes this game unique in the current gaming market. 
 Compare it to similar games and highlight key advantages. 
 -->
+The game has a unique style and set of mechanics, most notably the end-of-round duels. It features a diverse amount of effects and a good sense of humor surrounding its logic.
 
 ---
 
