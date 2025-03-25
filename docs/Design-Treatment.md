@@ -84,7 +84,7 @@ Explain how they contribute to the game's challenge and fun.
 
 **Fire Fight (Duel)** - At the end of the round, if not during a grace round, the leading player may choose a target, initiating a 1-on-1 exchange of cards. Based on the player's Fighting Style card, they may be able to take different actions, such as playing items, attacks, drawing cards, or exchanging cards. There is only one duel per round, and once all card effects are resolved, play continues with the next player becoming the leading player for that round.
 
-**Protection Token** - To prevent targeting, the player last aggressed upon by a Fire fight is granted a token, which prevents them from being targeted before another player is first. If the player leads the round, they may still choose to be an aggressor.
+**Roasted Token** - To prevent targeting, the player last aggressed upon by a Fire fight is granted a token, which prevents them from being targeted before another player is first. If the player leads the round, they may still choose to be an aggressor.
 
 **Winning the Game** - Players will win by default if all other players are defeated, by exhausting the tokens on their Core. However, certain Event cards may allow a secondary condition to be met first, securing victory in another way. This may be done by collecting a set of embers, winning a certain number of Fire Fights, or playing certain cards.
 
@@ -205,6 +205,7 @@ Explain how these inspirations shape the game’s mechanics, visuals, or themes.
 Describe the intended player emotions and reactions. 
 Examples: excitement, curiosity, tension, relaxation, humor. 
 -->
+Excitement, tension, humor. Players should hopefully devise strategies to combine cards, or hope for the best and watch chaos unfold. There are many possible interconnections, so I hope emergence comes from the tension of staying alive and fighting your friends 1-on-1.
 
 ---
 
@@ -215,11 +216,13 @@ Examples: excitement, curiosity, tension, relaxation, humor.
 Specify where the game will be played (e.g., PC, console, mobile, VR). 
 Mention any cross-platform support if applicable. 
 -->
+PC, console, mobile, are all possible. The most difficult implementation would likely be with certain card combos and the order with which effects are resolved. If that works, then cross-platform play should be simple.
 
 ### Tools
 <!-- 
 List key engines, programming languages, or frameworks required for development. 
 -->
+Unity, maybe even Tabletop Simulator. I code mostly in C#, so Unity is best for me. 
 
 ---
 
@@ -229,11 +232,13 @@ List key engines, programming languages, or frameworks required for development.
 <!-- 
 Describe the art direction, including color schemes, animation style, and UI elements. 
 -->
+Dramatic warm analogous color schemes broken up by start complementary colors, dark backgrounds for contrast.
 
 ### Sound Design
 <!-- 
 Explain the role of music, sound effects, and audio feedback in enhancing immersion. 
 -->
+Upbeat, heavy music would be best, keeping players excited.
 
 ---
 
@@ -242,6 +247,7 @@ Explain the role of music, sound effects, and audio feedback in enhancing immers
 Describe how the game will generate revenue. 
 Examples: one-time purchase, freemium model, ads, DLC, cosmetics, subscriptions. 
 -->
+The easiest option in my mind for a game like this is a one-time purchase with additional paid DLC. The game's simple framework would easily allow for the addition of more cards and strategies in the future.
 
 ---
 
