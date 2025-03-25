@@ -178,6 +178,7 @@ There are also Ally cards, which will show some NPCs of the world.
 Identify what makes your game stand out from others in its genre. 
 Highlight key features that differentiate it in the market. 
 -->
+The biggest selling points are the style, 1-on-1 dynamic, and the humor of the game. I was given positive feedback on the design and theme of the cards, so playing with an interesting design and a sense of humor in the tooltips and directions would work on me.
 
 ---
 
@@ -258,6 +259,7 @@ The easiest option in my mind for a game like this is a one-time purchase with a
 Write a step-by-step walkthrough of a core gameplay scenario. 
 Explain what the player does, the challenges faced, and how the game responds. 
 -->
+The most difficult scenario would likely encompass lots on quick-time elements stacking at once. A player could be drawing at the beginning of their turn, and pull multiple event cards. These would need to be resolved in sequence, but may have conflicting results, or cascade with chaining burn effects in the ember or ally cards. On top of this, there are a few cards which may be played out of turn, which could further complicate the round. The game's cards should be able to dictate the response when gone through in sequence, as most cards have additional notes for possible outcomes.
 
 ---
 
@@ -268,12 +270,14 @@ Explain what the player does, the challenges faced, and how the game responds.
 Identify elements that could fail or require refinement. 
 Examples: balancing issues, unclear mechanics, technological constraints. 
 -->
+Currently, the biggest roadblocks will be balancing and technological constraints. There are some rules which may be difficult to understand, but at this moment I predict that the game's effects stacking may be the most dangerous. it is possible for a player to be eliminated as early as the second round, or possibly not until many later rounds. I have not been able to do extensive testing yet, so this will be easier as more experience is gained.
 
 #### Feasibility
 <!-- 
 Describe any technological, financial, or development constraints. 
 How will you mitigate these risks? 
 -->
+Technological constraints will be resolved with time and effort. As with much of Unity development, tutorials and advice are integral to finding a workable solution. I predict that I will be able to implement it all, but I do think it could be labor-intensive.
 
 ---
 
