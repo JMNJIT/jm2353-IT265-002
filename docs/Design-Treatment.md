@@ -302,6 +302,13 @@ Provide a concise and engaging summary of the game concept and theme.
 Make it persuasive and easy to understand. 
 -->
 
+*Fire Fight* is an action twist on classic card games like *Exploding Kittens* and *FLUXX*, where diverse effects to the gameplay loop and modifiers to each player's playstyle can result in unique emergent strategies. The game is stylistically and thematically unique, and pulls from a variety of popular sources using fire as a medium. The game hopes to be an aggressive and fast take on the couch card games, allowing players to duel specific players or work together to maintain a chaotic balance. 
+
+The game hopes to appeal to its demographic with interesting card art, and themes like DnD-like magic, Tarot Cards, and controlled randomness. For players who have played similar games before, the game hopes to break away from the same gameplay loops by introducing different game states, but remaining not too far out of players' experience, such that they may pick up the style quickly.
+
+No other game uses pyrokinesis as a theme and few allow players to independently duel. With strong visual appeal and high replayability, the game aims to add a spark of originality in the tried-and-true.
+
+
 ### Target Audience Appeal
 <!-- 
 Explain how the game connects with its intended audience. 
@@ -320,28 +327,36 @@ Compare it to similar games and highlight key advantages.
 <!-- Duplicate Feedback group as necessary if beyond 3 -->
 
 ### Feedback 1
-- **Reviewer**:  
-  <!-- Enter name and relation to you -->
-- **Summary**:  
-  <!-- Summarize feedback focusing on concept, mechanics, and style -->
-- **Refinement**:  
-  <!-- Explain how this feedback will improve the design -->
+Mason Colon, Roommate (by his request: "reviewed by Mason - card game expert")
+He gave me a lot of organizational feedback, focusing on how turns run, and where Fire Fights can happen
+as opposed to who can play first. He also suggested the addition of some basic player actions, such as
+discarding cards. He also suggested changing the mechanics on Fireball and ally cards to help with balance.
+He had a lot of comments, so I cannot go through them all here. This feedback helps with shaping the foundation of the game, how players interact and how the flow of the game works. He suggested a lot of models from other game examples which helped give me some more context to what I should and should not mirror, so I think his feedback will be very useful for the prototyping section.
+
 
 ### Feedback 2
-- **Reviewer**:  
-  <!-- Enter name and relation to you -->
-- **Summary**:  
-  <!-- Summarize feedback focusing on concept, mechanics, and style -->
-- **Refinement**:  
-  <!-- Explain how this feedback will improve the design -->
+Rick Mohring, my Dad, NJIT Alum. + board game enjoyer, etc.
+He pointed out some inconsistencies in my description of certain game rules, such as the grace round, and
+encouraged me to give it more structure. On the style of the game, he agreed that it was original, but did not
+seem as drawn to it aesthetically as my friends, which confirmed my ideas about the demographic that the
+game willappela to. He did, however, agree that the artstyle will be a good selling point with effective use of
+color. This feedback is useful as well, as sometimesI flesh an idea out in my head more than I have on paper, and
+thus it may not integrate as well as i tmougnt, or will point out exampies where it is mroe difficult for a piayer
+understand than it is the creator.
+
 
 ### Feedback 3
-- **Reviewer**:  
-  <!-- Enter name and relation to you -->
-- **Summary**:  
-  <!-- Summarize feedback focusing on concept, mechanics, and style -->
-- **Refinement**:  
-  <!-- Explain how this feedback will improve the design -->
+
+Kapila Mane, Friend from high school & in my D&D group
+She focused on the aesthetic parts of the game first. She found the basic mechanics easy to follow, but
+suggested some additional clarity on the use of Fighting Style cards and how they would interact with the
+loop. She suggested making alterations to them such that more cards would be available per round, to make
+more actions possible and increase player actions/gameplay pace.
+I was glad that she liked it aestetically, as I think the style is a big selling part ofthe game. This will definitely
+help with my considerations of the gameplay loop. Overall, the feedback revealed some holes in the logic of
+the game, but supported the concept and style. I want to continue using the style I started with, so I am glad
+that it seems successful.
+
 
 
 ---
