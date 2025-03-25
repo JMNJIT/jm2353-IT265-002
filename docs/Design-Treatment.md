@@ -89,7 +89,6 @@ Explain how they contribute to the game's challenge and fun.
 **Winning the Game** - Players will win by default if all other players are defeated, by exhausting the tokens on their Core. However, certain Event cards may allow a secondary condition to be met first, securing victory in another way. This may be done by collecting a set of embers, winning a certain number of Fire Fights, or playing certain cards.
 
 
-
 ### Goals and Challenges
 <!-- 
 Detail what players aim to achieve and the obstacles they must overcome. 
@@ -107,7 +106,7 @@ More event cards and evetually Tarot cards will work their way into the game, cr
 
 If the game is reduced to 2 players, some mechanics will change to make finishing the game easier.
 - The Roasted Token will be removed.
-- Players Must engage in a Fire Fight at the end of the Round
+- Healing will be capped to half maximum health.
 
 ### Game Rules
 <!-- 
@@ -118,14 +117,29 @@ Ensure they are clear, structured, and intuitive.
 -- The leading player does not change in between the first and second round 
 
 - Players may not have more than 3 Embers at a time unless a card states otherwise
+- Players have a maximum hand size of 5 cards unless stated otherwise
+  -- Players may draw above this limit during their turn, but must Discard cards down to the limit at the end of their turn
+  
 - Players may have 0 or 1 ally active at a time
-- Whenever a player plays a card that they are at capacity for, they must burn (discard) a chosen card of the type, resolve its effects, and replace it with a new card.
+- Whenever a player plays a card that they are at capacity for, they must burn (discard and resolve effects) a chosen card of the type, and replace it with the new card.
 
 - Players can always begin their turn by drawing 3 cards
 - Players can play any number of cards during their turn, excluding most attack cards.
-- When a player is finished playing their cards, play moves to the next player Clockwise
+- When a player is finished playing their cards, play moves to the next player Clockwise.
 
-- 
+Fire Fights
+- At the end of the Round, the leading player declares a Fire Fight duel with another player, unless they hold the Roasted token, where they may choose not to attack.
+- Play starts with the leading player (unless stated otherwise), acting in accordance with their active Fighting style
+  -- If a player has an action card that can be played, even if they do not have the embers necessary, they must play it, but its power will treated as 0.
+  -- If a player has no usable action cards, their turn is skipped.
+- When the Fire Fight is resolved, the difference of the two players' power totals for the fight damages the loser for that many HP
+- Win or loss, the player who was aggressed receives the "Roasted" token, preventing them from being targeted for the next round
+-- if the player is the next Leading player, they may choose to aggress at the end of the round.
+
+- At the end of the round, All players draw to their maximum hand size (5 unless otherwise stated)
+
+Rule of Thumb
+- Most card effects must be resolved as stated on the card. Some are exceptions to general rules.
 
 ---
 
@@ -136,18 +150,26 @@ Ensure they are clear, structured, and intuitive.
 Describe the game world, its rules, and any unique environmental elements. 
 Provide enough detail to establish immersion. 
 -->
+Set in a Fantasy Dystopia, where magic causes the downfall of great cities, when pyrokinesis became the dominant form of magic in the world. The game is set in the aftermath of a war, where factions of pyrokinetics fight for resources, mastery of fire, and survival.
 
 ### Plot
 <!-- 
 Outline the central narrative arc. 
 What is the player’s role in the story, and what major events drive the gameplay forward? 
 -->
+After the fall of the last empire, new Pyrokinetics were thrown into a realm of chaos and uncertainty. Though many sought to feed the chaos, factions formed, which sought to control their fire. This led to the creation of the Fire Fight, a duel of fire mastery which would establish strength and net resources to the winning faction. Though many parties continued to fight on their own, nearly all accept a Fire Fight as a final way to settle disputes. However, the use or Embers, relics which can grant additional power, some factions intend to subvert the balance and gain resources for themselves. Now, as more powerful, adaptable pyrokinetics grow, unrest grows and battles erupt.
+
+For survival or for control, it's all about firepower.
+
 
 ### Characters
 <!-- 
 List key characters, their roles, and how they impact the story. 
 Describe their motivations, personality traits, and influence on the player’s journey. 
 -->
+While there are few defined characters aside from the players, "characters" will exist in the form of Fighting Styles, cards which dictate how each player can attack during a duel. The characters are not associated with particular alignments, but the fighting style cards will feature art and information on specific characters in the world which utilize the style.
+
+There are also Ally cards, which will show some NPCs of the world.
 
 ---
 
@@ -165,11 +187,16 @@ Highlight key features that differentiate it in the market.
 <!-- 
 List books, movies, historical events, or games that influenced this project. 
 -->
+- *Fire Force*
+- *Avatar: The Last Airbender*
+- D&D
+- MTG
 
 ### Why It Matters
 <!-- 
 Explain how these inspirations shape the game’s mechanics, visuals, or themes. 
 -->
+- These references helped me form a lot of ideas around the game, and defined a lot of my expectations. I took elements from them that I thought were most fun or inspiring, and tried to twist them into functions that I as a player would like to be able to do.
 
 ---
 
