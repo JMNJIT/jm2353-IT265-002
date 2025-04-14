@@ -1,34 +1,36 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: John Mohring
+### Module: 008
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [04/15/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
+- [ ] Continue Testing Game mechanics
+- [ ] Think about applications for digital prototype
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - Playtested the game more times, and with more people.<!--Your entry here or N/A if not applicable for this entry-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Balancing difficulty, turn time, player hand balance
+  - Thinking about applications for digital prototype, defining an order for resolving cascading effects 
+    <!--Your entry here or N/A if not applicable for this entry-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  - Scaling health as player choice, as opposed to set values, to define how long the rounds will take as well as how difficult <!--Your entry here or N/A if not applicable for this entry-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Balancing the turns is more than just adding cards, sometimes synergy can continue to pile up and make the game last longer
+<!--Your entry here or N/A if not applicable for this entry-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+- I think I will have to design a script with a defined system to check for all possible cascade events in each instance, but I'm still grasping the scale.
+- Considering making internal "phases" and attributes that will have connected functions that I can call together and force into a queue, such as the universal "burn" and "discard" functions
 -  <!--Your entry here or N/A if not applicable for this entry-->
 <!--
 
@@ -41,4 +43,5 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
+- Going to continue testing, and begin coding some prototype features
 -  <!--Your entry here or N/A if not applicable for this entry-->
