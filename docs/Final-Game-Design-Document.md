@@ -1,4 +1,4 @@
-# IT265 Design Treatment Checkpoint
+# IT265 Design Treatment
 
 ---
 
@@ -8,6 +8,27 @@
 
 ---
 ## Change Log
+### Initial development 
+- Took inspiration from card games like FLUXX, Explodiing Kittens, Unstable Unicorns, MTG
+-- started developing a system that could utilize cards as "fuel," to direct the idea towards fire
+- Created Ember cards, mimicing Keepers from FLUXX, but with abilities like the unicorn cards from Unicorns
+- Created Action cards, those that would be consuming Embers as fuel.
+- After creating action cards, took inspiration from Turn-based games, but hybridized the idea into creating Phases, group and solo duel
+-- this idea guides a lot of the progress towards balancing and changing, and became the primary focus and namesake of the game
+
+### Intermediate development
+- Came up with Fighting Style / Ally cards, persistent cards that defined ways the cards would interact in the Fire Fight Phase
+- Came up with Tarot Cards, large effects that changed the course of the game, in attempt to make the win condition malleable, and not as simple as just being the last standing
+-- for simplicity, shelved. After early testing the game functioned fine without them, and implementing them was seeming complex
+- In its place, Event cards came about, which could be played more freely and were able to affect
+
+### Testing
+
+### Physical Prototype
+
+### Digital Prototype
+- Created a sample project to start working
+- Created Prefabs for player mats, as a basis for transforms for cards
 - 
 
 ---
