@@ -69,6 +69,16 @@
 
 - I know the system is missing a lot of features, but i'm just having trouble getting a lot of it to mesh. I'm probably going to submit the most recent version that functions as the gameplay loop and play functions, but I tried.
 
+## Summary of Changes
+- The game was changed from having a lot of moving parts to having a few parts that chain together. This was done to make it much easier to design individual cards, as I only had to look ahead by a turn or two, but in the game, those changes could have more vast effects and lead to emergent strategies.
+- Max health was reduced and the ability to change it was added as a consideration, as the gaeme's length does tend to vary
+- more diversity in Fighting styles and item abilities made the game more fun and diverse as the deck grew
+
+- in the digital prototype, I had to omit a lot of stuff due to complexity. Looking back on it, the emergence of my game is not as well suited for the digital considerations, at least not without techincal difficulty. a lot of the rules are easy to understand by reading their effect, but resolving multiple effects this way is much more difficult in engine. I'm sure it's possible, but I can't really get it to function as I want it to.
+- I hope the effort comes through, I'm feeling a little bad about not being able to incorporate the features I wanted to, but it would require much more time or skill than I have available for this.
+- Overall the game has evolved in a way I really like, and I will probably persue making a real version in the future, or at least a more polished version I could put on like tabletop simulator or something.
+
+
 ---
 ## Concept Statement
 <!-- 
