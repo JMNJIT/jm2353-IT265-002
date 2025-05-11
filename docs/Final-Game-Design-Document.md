@@ -61,7 +61,13 @@
 - created a UI sorting system to organize elements of the flow and control how the game moves from player to player
 - wrote several functions and systems to track the player who last declared a fire fight, and to control who can be attacked next
 
-- 
+- Working on play effects, had trouble translating the backend tracking of the player's cards into the UI
+- resorted to UI buttons reading data from the player's hand slots, and filling the text with the index.
+- frustrated, having a hard time getting some of this to work in an organized fashion. I know i don't have the card art or anything either
+- I've made the UI elements allow the player to Play any of their cards (i am ignoring card types at this point because I doubt I'll be able to fit that in on time)
+- they are instantly discarded at this point, and player health is not affected
+
+- I know the system is missing a lot of features, but i'm just having trouble getting a lot of it to mesh. I'm probably going to submit the most recent version that functions as the gameplay loop and play functions, but I tried.
 
 ---
 ## Concept Statement
