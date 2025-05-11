@@ -15,16 +15,31 @@
 - Created Action cards, those that would be consuming Embers as fuel.
 - After creating action cards, took inspiration from Turn-based games, but hybridized the idea into creating Phases, group and solo duel
 -- this idea guides a lot of the progress towards balancing and changing, and became the primary focus and namesake of the game
+- Upgraded the Burn idea to be possible out of Fire Fight turns, and allowed card effects to chain
 
 ### Intermediate development
 - Came up with Fighting Style / Ally cards, persistent cards that defined ways the cards would interact in the Fire Fight Phase
 - Came up with Tarot Cards, large effects that changed the course of the game, in attempt to make the win condition malleable, and not as simple as just being the last standing
 -- for simplicity, shelved. After early testing the game functioned fine without them, and implementing them was seeming complex
-- In its place, Event cards came about, which could be played more freely and were able to affect
+- In its place, Event cards came about, which could be played more freely and were able to affect other players hands/embers
+- Received intermediate feedback as described farther below.
+-- Some suggested changes, such as turn changes, adjustments to types, health, etc. (see feedback section)
+- With the basic card types created, began drawing up a bunch of new cards and winging the effect descriptions, in order to build up the card base.
 
 ### Testing
+- With the cards developed, a deck on ~50 cards made a real game possible. Tested with an intermediate 3 players, with an attempt at 4 proving to be too few cards.
+- Emergent effects were realized:
+-- Card effects cascade very well, but removed the "fast-paced" idea
+-- There were some holes in how cards could interact, such as being able to affect on-table cards in one direction but not the other.
+-- A few dominant-like strategies emerged, to be balanced.
+- Generally positive experience!
 
-### Physical Prototype
+### Physical Prototype Presentation
+- Fixed the holes in the gameplay loop with additional cards
+- Built up the card base more, filling in a lot of new strategies and playstyles
+- Nerfed some card pairings that seemed to strong.
+- Finished the art on many cards ahead of the presentation
+- I think the presentation went well, it seemed not too confusing for the group, but I did not receive any specific feedback in that regard.
 
 ### Digital Prototype
 - Created a sample project to start working
