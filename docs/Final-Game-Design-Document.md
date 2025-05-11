@@ -7,7 +7,10 @@
 ### *Fire Fight*
 
 ---
+## Change Log
+- 
 
+---
 ## Concept Statement
 <!-- 
 Provide a one-sentence summary that captures the core idea of your game. 
@@ -277,7 +280,7 @@ Currently, the biggest roadblocks will be balancing and technological constraint
 Describe any technological, financial, or development constraints. 
 How will you mitigate these risks? 
 -->
-Technological constraints will be resolved with time and effort. As with much of Unity development, tutorials and advice are integral to finding a workable solution. I predict that I will be able to implement it all, but I do think it could be labor-intensive.
+It's a technically intensive game, with a lot of features that cascade into each other. I'm not sure how ready I am to do all of the features, but at the very least I want the flow of the game to be followed.
 
 ---
 
