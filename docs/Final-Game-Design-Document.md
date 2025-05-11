@@ -44,7 +44,15 @@
 ### Digital Prototype
 - Created a sample project to start working
 - Created Prefabs for player mats, as a basis for transforms for cards
-- 
+- Started by creating individual scripts for type bases, like player, card types, hands, etc.
+- created a number of functions on these base classes, for burn, play, and turn start effects
+- with a game manager and turn manager script, started working on how  the flow of the game would go
+- Quickly ran into some big problems, such as how the FF rotation would work, especially with differnt player count
+- Struggled to start play effects on cards, and how they might link to burn effects and cascade.
+
+- After a while struggling with the scene, among other issues, something in the project settings broke, and I was no longer able to access buttons or interact with the objects
+
+- took the opportunity to start fresh, 
 
 ---
 ## Concept Statement
