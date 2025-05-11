@@ -52,7 +52,16 @@
 
 - After a while struggling with the scene, among other issues, something in the project settings broke, and I was no longer able to access buttons or interact with the objects
 
-- took the opportunity to start fresh, 
+- took the opportunity to start fresh, and reworked the system from the ground up.
+- Replaced the Turn/Deck manager functions with a single game manager
+- Kept the player and card classes, but held off on splitting the types yet, in favor of improving the system
+- Hit some difficulty creating the hands/turn order, iterated a few times
+- worked up the deck functonality, using stacks instead of lists. the system should be able to manage automatically drawing cards and reshuffling when the deck is emptied automatically, removing that annoying physical element
+- Had a lot of trouble working in the Fire Fight phase option, especially with varying player number
+- created a UI sorting system to organize elements of the flow and control how the game moves from player to player
+- wrote several functions and systems to track the player who last declared a fire fight, and to control who can be attacked next
+
+- 
 
 ---
 ## Concept Statement
