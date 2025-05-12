@@ -6,8 +6,11 @@
 
 ### *Fire Fight*
 
+# LINK TO VIDEO: [https://www.youtube.com/watch?v=EsrwDN8aLp4](url)
+
 ---
 ## Change Log
+
 ### Initial development 
 - Took inspiration from card games like FLUXX, Explodiing Kittens, Unstable Unicorns, MTG
 -- started developing a system that could utilize cards as "fuel," to direct the idea towards fire
