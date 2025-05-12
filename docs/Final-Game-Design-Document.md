@@ -6,7 +6,7 @@
 
 ### *Fire Fight*
 
-# LINK TO VIDEO: [https://www.youtube.com/watch?v=EsrwDN8aLp4](url)
+# LINK TO VIDEO: https://www.youtube.com/watch?v=EsrwDN8aLp4
 
 ---
 ## Change Log
